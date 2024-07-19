@@ -1,0 +1,65 @@
+{
+  "hel": [
+    "hello",
+    "help",
+    "healthy"
+  ],
+  "tha": [
+    "that",
+    "thank",
+    "than"
+  ],
+  "pro": [
+    "program",
+    "problem",
+    "process"
+  ],
+  "com": [
+    "computer",
+    "communication",
+    "community"
+  ],
+  "inte": [
+    "internet",
+    "interest",
+    "international"
+  ],
+  "dev": [
+    "development",
+    "device",
+    "developer"
+  ],
+  "app": [
+    "application",
+    "approve",
+    "appoint"
+  ],
+  "exc": [
+    "exciting",
+    "excellent",
+    "except"
+  ],
+  "stu": [
+    "student",
+    "study",
+    "studio"
+  ],
+  "te": [
+    "technology",
+    "television",
+    "test"
+  ],
+  "edu": [
+    "education",
+    "educate",
+    "educational"
+  ],
+  "inform": [
+    "information",
+    "informative",
+    "informal"
+  ],
+  "water": [
+    "water"
+  ]
+}
